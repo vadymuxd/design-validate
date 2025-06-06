@@ -37,7 +37,7 @@ export const eventTrackingTools: Tool[] = [
   {
     name: "Google Analytics",
     description: "Comprehensive web analytics platform for tracking user behavior and conversions.",
-    logo: "https://bowerwebsolutions.com/wp-content/uploads/2022/04/ga4.jpg",
+    logo: "https://www.drupal.org/files/issues/2022-10-04/%20google_analytics_icon.png",
     url: "https://analytics.google.com/",
   },
   {
@@ -70,31 +70,31 @@ export const sessionReplayTools: Tool[] = [
   {
     name: "Smartlook",
     description: "Advanced session recording with automatic event tracking and mobile app support.",
-    logo: "https://assets.smartlook.com/img/logo-square-dark.svg",
+    logo: "https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/665056b06e14cff684d77f78_560be37e-49c0-5ad7-935f-74d7d7467b78.svg",
     url: "https://www.smartlook.com/",
   },
   {
     name: "FullStory",
     description: "Enterprise-grade session replay with powerful search and analytics capabilities.",
-    logo: "https://images.ctfassets.net/rz1q59puyrgq/4TuBwD1QXXRQmqtQSZX5du/c1445ad9a23d39fd4458e2f60ddf9f00/fs-mark-white.svg",
+    logo: "https://yt3.googleusercontent.com/MN-pf530FFEenVWoftJPZfMit3Ergep8EnkFxgFwIW5PQd_p6jdZk5-Ilz6H5lthxiADQ4yA=s900-c-k-c0x00ffffff-no-rj",
     url: "https://www.fullstory.com/",
   },
   {
     name: "LogRocket",
     description: "Developer-focused session replay with error tracking and performance monitoring.",
-    logo: "https://logrocket-assets.io/static/home-free-log-management.png",
+    logo: "https://cdn.brandfetch.io/idbqwJEFOO/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
     url: "https://logrocket.com/",
   },
   {
     name: "Contentsquare",
     description: "AI-powered digital experience analytics with advanced journey analysis.",
-    logo: "https://contentsquare.com/wp-content/themes/contentsquare/assets/images/logos/cs-logo-icon.svg",
+    logo: "https://cdn.brandfetch.io/contentsquare.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed",
     url: "https://contentsquare.com/",
   },
   {
     name: "Quantum Metric",
     description: "Enterprise platform combining session replay with real-time analytics and insights.",
-    logo: "https://assets-global.website-files.com/5f9b0f18b03ddf14e00bbd6f/5f9b0f18b03ddf5c490bbddb_quantum-metric-logo.svg",
+    logo: "https://cdn.brandfetch.io/idMJejxCYE/w/329/h/329/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
     url: "https://www.quantummetric.com/",
   }
 ];
